@@ -13,8 +13,8 @@ Os dados serão salvos para possibilitar acesso offline aos filmes cadastrados.
 * Pesquisa de filmes por título
 * Apresentar o resultado da pesquisa em uma lista; Cada elemento na lista
 Deve ter uma imagem de polegar do filme (se estiver disponível), o título, o
-Ano eo diretor
+ano e o diretor.
 * O usuário pode solicitar uma visualização detalhada do filme, pressionando
-Item da lista de resultados e mostrando os detalhes do filme, com o
+o item da lista de resultados e mostrando os detalhes do filme, com o
 O filme em grande tamanho (se estiver disponível) e as informações detalhadas
-Sobre o filme.# OMDb-Api-Android
+sobre o filme.
